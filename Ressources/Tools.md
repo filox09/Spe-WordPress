@@ -3,9 +3,11 @@
 
 # JS
 - [Webpack](https://webpack.js.org/) : permet de morceler le code sous forme de module qui seront ensuite fusionnés en un seul fichier par Weppack
-- npm
+- npm 
 
-# Gestionnaire de librairie
-## Composer
-https://packagist.org/
-wpackagist
+# PHP
+- composer
+# Annuaires de gestionnaires de dépendances
+- [Packages pour php](https://packagist.org/)
+- [Packages pour wordpress](https://wpackagist.org/)
+- [Packages pour js](https://www.npmjs.com/)
