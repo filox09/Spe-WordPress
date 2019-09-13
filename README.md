@@ -44,10 +44,10 @@ Notes de la spé WordPress
 </details>
 
 ## Quiz
-- E01 : Intro à Wordpress
-- E02 : Configuration de WordPress
-- E03 : npm et Sass
+- [S01-E01 : Intro à Wordpress](https://github.com/Amy-universe/Spe-WordPress/blob/master/Quiz/E01-Quiz.md)
+- [S01-E02 : Configuration de WordPress](https://github.com/Amy-universe/Spe-WordPress/blob/master/Quiz/E02-Quiz.md)
+- [S01-E03 : npm et Sass](https://github.com/Amy-universe/Spe-WordPress/blob/master/Quiz/E03-Quiz.md)
 
 ## Ressources
-- [Boîte à outils]()
-- [Bonnes pratiques (liste exhaustive)]()
+- [Boîte à outils](https://github.com/Amy-universe/Spe-WordPress/blob/master/Ressources/Tools.md)
+- [Bonnes pratiques (liste exhaustive)](https://github.com/Amy-universe/Spe-WordPress/blob/master/Ressources/GoodPractices.md)
